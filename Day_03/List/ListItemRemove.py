@@ -8,15 +8,12 @@ print(li)
 li.pop(1)
 print(li)
 
-
-
 #del
 del li[0]
 print(li)
 
-
-
-
 # clear
 li.clear()
 print(li)
+
+
