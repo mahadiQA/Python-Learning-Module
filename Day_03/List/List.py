@@ -11,3 +11,5 @@ li1=["Mahadi","Jim"]
 print(li1)
 li1[1]="Sonom Sultan Jim"
 print(li1)
+
+
