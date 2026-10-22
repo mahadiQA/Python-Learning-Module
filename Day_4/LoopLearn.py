@@ -7,3 +7,15 @@ for x in li:
 #using range()& len()
 for x in range(len(li)):
     print(x)
+
+
+
+
+#while loop
+y=0
+while y<len(li):
+    print(li[y])
+    y+=1
+
+
+
