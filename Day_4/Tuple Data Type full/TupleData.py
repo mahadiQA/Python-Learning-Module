@@ -8,5 +8,3 @@ print("---------------Range of index-------------------")
 x=newTuple[1:5]
 print(x)
 
-
-
