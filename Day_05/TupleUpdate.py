@@ -1,6 +1,8 @@
-newTouple = ("Mahadi","Hasan","Mithu","Sonom","Sultan",)
+newTuple = ("Mahadi","Hasan","Mithu","Sonom","Sultan",)
 
-a=list(newTouple)
+a=list(newTuple)
 a.append("Jim")
 
-print(a)
+newTuple =tuple(a)
+
+print(newTuple)
