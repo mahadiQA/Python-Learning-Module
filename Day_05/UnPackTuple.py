@@ -1,9 +1,10 @@
-newTuple = ("Mahadi","Hasan","Mithu","Sonom","Sultan")
+newTuple = ("Mahadi","Hasan","Mithu","Sonom","Sultan","Jim")
 
-(a,b,c,d,e)=newTuple
+(a,b,c,d,e,f)=newTuple
 
 print(a)
 print(d)
 print("-----------------------------------------------------------------------")
-(*x,)=newTuple
+(*x, y)=newTuple
 print(x)
+print(y)
