@@ -16,5 +16,5 @@ print(len(fruits))
 
 (a,b,c)=fruits
 
-print(a,b,c)
+print(b)
 
