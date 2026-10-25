@@ -13,3 +13,16 @@ StudentInfo={
 
 print(StudentInfo["Jim"])
 print(StudentInfo["Jim"]["ID"])
+
+#using get()
+
+print("using get()----------------------")
+print(StudentInfo.get("Mahadi"))
+
+#show key--------
+print("\n-------------finding keys-----------------")
+print(StudentInfo.keys())
+
+#Finding value using values()
+print("\n--------------finding value-----------------")
+print(StudentInfo.values())
