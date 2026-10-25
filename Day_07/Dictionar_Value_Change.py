@@ -15,3 +15,6 @@ StudentInfo={
 StudentInfo["Mahadi"]["Location"]="Dorgah, Gollamari, Khulna"
 
 print(StudentInfo["Mahadi"]["Location"])
+
+#Using upadate()
+
