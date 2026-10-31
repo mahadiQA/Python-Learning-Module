@@ -10,7 +10,4 @@ for x in li:
 
 
 
-x=0
-while x<=20:
-    print("Hello World")
-    x+=1
+
