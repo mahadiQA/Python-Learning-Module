@@ -11,11 +11,13 @@ a=10
 b=20
 
 def Sultan():
+    global a
+    a=50
     print(a+b)
 
 Sultan()
 
-
+print(a)
 
 
 
